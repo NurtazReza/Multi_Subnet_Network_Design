@@ -34,18 +34,9 @@ http://abc.scholarsbd.edu
 
 ## 🗺️ Topology
 
-```mermaid
-graph TD
-    R7((Router 7<br/>Core))
-    R1[Router 1] --- R7
-    R2[Router 2] --- R7
-    R3[Router 3] --- R7
-    R4[Router 4] --- R7
-    R5[Router 5<br/>Server Room] --- R7
-    R6[Router 6] --- R7
-    R2 -. extra link .- R3
-    R4 -. extra link .- R5
-```
+<img width="2401" height="1479" alt="Topology Image" src="https://github.com/user-attachments/assets/09cce8e4-7b49-475d-bd18-b52148e6f9e7" />
+
+
 
 > **Note:** The design is a star centered on Router 7, with two additional links (Campus 2 ↔ Campus 3 and Campus 4 ↔ Campus 5) for redundancy.
 
