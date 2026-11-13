@@ -149,13 +149,3 @@ Tests included end-to-end pings between campuses, DHCP lease acquisition by remo
 
 - Cisco Packet Tracer 9.0.0
 - HTML and CSS (web server content)
-
----
-
-## 👤 Author
-
-**Nurtaz Reza**
-Department of Computer Science & Engineering
-East West University
-Course: CSE405 – Computer Networks (Summer 2026)
-Instructor: Dr. Anisur Rahman
